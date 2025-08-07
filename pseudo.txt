@@ -1,0 +1,53 @@
+# Write single even numbers algorithm.
+num_list = [2, 4, 6, 8]
+print(num_list[3])
+"""
+
+"""
+
+# Name greeting algorithm.
+first_name = "Tony"
+greeting = " Hello, World."
+print(first_name + greeting)
+"""
+
+"""
+
+# Arithmetic algorithm.
+num_list = [2, 6]
+integers = ((num_list[0] + num_list[1])/num_list[0])
+sum = (num_list[0] + num_list[1])
+ave = sum / integers
+print(ave)
+print(sum)
+print(integers)
+"""
+
+"""
+
+# Grocery list algorithm.
+grocery_list = ["milk", "eggs", "cheese"]
+sorted_grocery_list = sorted(grocery_list)
+print(sorted_grocery_list)
+"""
+
+"""
+
+# Flowchart algorithm.
+# Start
+    # Read X, Y
+X = 4
+Y = 2
+print([X, Y])
+    # S, A, P Formulas
+S = X + Y
+A = S / 2
+P = X * Y
+    # Write S, A, P
+print(S)
+print(A)
+print(P)
+    # End
+"""
+
+"""
